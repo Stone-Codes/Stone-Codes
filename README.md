@@ -1,7 +1,7 @@
 # <div align="center">Hi 👋, I'm Flo</div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Flo, a full stack software engineer, currently working at scoutbee as a senior frontend engineer</div>  
   
 
 - 🔭 I’m currently working on ...
