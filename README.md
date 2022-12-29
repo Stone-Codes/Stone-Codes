@@ -87,7 +87,7 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stone-Codes&hide_border=true&layout=compact" align="center" /></div>  
-
+<img src="https://github-readme-stats.vercel.app/api?username=Stone-Codes&show_icons=true&count_private=true&hide_border=true" align="left" />  
 <br/>  
 
   
