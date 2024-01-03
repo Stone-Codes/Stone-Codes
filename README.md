@@ -1,7 +1,7 @@
 # <div align="center">Hi 👋, I'm Flo</div>  
   
 
-### <div align="center">I'm Flo, a full stack software engineer, currently working at scoutbee as a senior software engineer</div>  
+### <div align="center">I'm Flo, a full stack software engineer, currently working at DubClub as a senior software engineer</div>  
   
 
 - 🔭 I’m currently working on ...
